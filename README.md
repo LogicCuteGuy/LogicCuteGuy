@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LogicCuteGuy
-- 👀 I’m interested in Aerina (Ship)
-- 🌱 I’m currently learning adv rust for make Aerina (Software)
+- 👀 I’m interested in Aerina Kazumin Hinnami (Ship)
+- 🌱 I’m currently learning adv rust
 - 💞️ I’m looking to collaborate on anything (with you if you can)
 - 📫 How to reach me contact@logiccuteguy.com
 - 😄 Pronouns: Logic
@@ -10,4 +10,3 @@
 LogicCuteGuy/LogicCuteGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-     🥰 Aerina💛💙 & Hinanami💗 So Cute and Aerina💛💙 & Hinanami💗 is Real
