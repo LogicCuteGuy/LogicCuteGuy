@@ -1,0 +1,29 @@
+{
+  "name": "LogicCuteGuy VPM Repository",
+  "id": "com.logiccuteguy.vpm",
+  "url": "https://gist.githubusercontent.com/LogicCuteGuy/402a83b82685dc6e321eb574dc9b2a75/raw/1c55737315e5fa241aa00ad4cf3ec3b2a534c6b2/vpm.json",
+  "author": {
+    "name": "LogicCuteGuy",
+    "url": "https://profile.logiccuteguy.com/"
+  },
+  "description": "VRChat Package Manager repository for LogicCuteGuy's tools.",
+  "packages": {
+    "com.logiccuteguy.helptools": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.logiccuteguy.helptools",
+          "displayName": "LogicCuteGuy Help Tools",
+          "version": "1.0.0",
+          "description": "A collection of helpful Unity Editor tools for scene management, object manipulation, and optimization.",
+          "unity": "2022.3",
+          "author": {
+            "name": "LogicCuteGuy",
+            "url": "https://profile.logiccuteguy.com/"
+          },
+          "url": "https://github.com/LogicCuteGuy/com.logiccuteguy.helptools/releases/download/1.0.0/com.logiccuteguy.helptools-1_0_0.zip",
+          "zipSHA256": "526f1de4657ca624472c15f5b83adeb4f9fdb5690b85a1134d0fa922ae3f0ce4"
+        }
+      }
+    }
+  }
+}
