@@ -22,6 +22,19 @@
           },
           "url": "https://github.com/LogicCuteGuy/com.logiccuteguy.helptools/releases/download/1.0.0/com.logiccuteguy.helptools-1_0_0.zip",
           "zipSHA256": "03f8ad8e6477163299e452f78595d61bf54c653018d71a7d8506b34202f24159"
+        },
+        "1.0.1": {
+          "name": "com.logiccuteguy.helptools",
+          "displayName": "LogicCuteGuy Help Tools",
+          "version": "1.0.1",
+          "description": "A collection of helpful Unity Editor tools for scene management, object manipulation, and optimization.",
+          "unity": "2022.3",
+          "author": {
+            "name": "LogicCuteGuy",
+            "url": "https://profile.logiccuteguy.com/"
+          },
+          "url": "https://github.com/LogicCuteGuy/com.logiccuteguy.helptools/releases/download/1.0.1/com.logiccuteguy.helptools-1_0_1.zip",
+          "zipSHA256": "10091ad50e6743ef41dc73b177967fe8d0c81166c7510069e75a32ebff56914f"
         }
       }
     }
