@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LogicCuteGuy
-- 🌱 I’m currently learning adv rust
 - 💞️ I’m looking to collaborate on anything (with you if you can)
 - 📫 How to reach me contact@logiccuteguy.com
 - 😄 Pronouns: Logic
