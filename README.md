@@ -1,3 +1,6 @@
+<img width="1920" height="590" alt="VRChat_2026-08-17_02-11-15 420_1920x1080 - Copy" src="https://github.com/user-attachments/assets/6fae2a2e-e9c3-48ed-b96b-3d0d80ec1143" />
+
+
 - 👋 Hi, I’m @LogicCuteGuy
 - 💞️ I’m looking to collaborate on anything (with you if you can)
 - 📫 How to reach me contact@logiccuteguy.com
